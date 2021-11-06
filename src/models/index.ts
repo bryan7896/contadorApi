@@ -1,0 +1,1 @@
+export * from './contador.model';
